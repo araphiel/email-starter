@@ -1,0 +1,22 @@
+<mjml>
+  <mj-head>
+    <mj-title>Introducing Teladoc Health, our new corporate brand</mj-title>
+    <mj-font name="effra" href="https://use.typekit.net/wha3pkf.css" />
+    <mj-attributes>
+      <mj-all font-family="'effra', Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style>.hide-desktop { display: none !important;} @media screen and (max-width:600px) { .tcenter *, .tcenter { text-align: center
+      !important; } .hide-mobile { display: none !important;} .bg-sm-purple *, .bg-sm-purple { background: #5B2981 !important;
+      background-color: #5B2981 !important; background-image: none !important} } @media screen { html { font-size: 100%;
+      text-rendering: optimizeLegibility; font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; -webkit-font-smoothing:
+      antialiased; -webkit-text-size-adjust: 100%; } } .line-height,.line-height * {line-height:1.57 !important} a {color: #00A4DB}
+    </mj-style>
+    <mj-style>[owa] .owa-none { display: none !important;} [owa] .tcenter *, .tcenter { text-align: center !important; } [owa] .hide-mobile
+      { display: none !important;} [owa] .bg-sm-purple *, .bg-sm-purple { background: #5B2981 !important; background-color:
+      #5B2981 !important; background-image: none !important}</mj-style>
+  </mj-head>
+  <mj-body background-color="#F8F7F5">
+    
+
+  </mj-body>
+</mjml>

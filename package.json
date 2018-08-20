@@ -5,7 +5,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "mjml --watch index.mjml -o index.html; browser-sync start --server --files '**/*.*'"
+    "start": "mjml --watch index.mjml -o index.html && browser-sync start --server --files '**/*.*'"
   },
   "dependencies": {
     "mjml": "^4.1.2"
