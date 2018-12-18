@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title>Introducing Teladoc Health, our new corporate brand</mj-title>
+    <mj-title>Title</mj-title>
     <mj-font name="effra" href="https://use.typekit.net/wha3pkf.css" />
     <mj-attributes>
       <mj-all font-family="'effra', Helvetica, Arial, sans-serif"></mj-all>
@@ -16,7 +16,14 @@
       #5B2981 !important; background-image: none !important}</mj-style>
   </mj-head>
   <mj-body background-color="#F8F7F5">
-    
-
+    <mj-section>
+      <mj-column>
+        <mj-carousel>
+          <mj-carousel-image src="https://www.mailjet.com/wp-content/uploads/2016/11/ecommerce-guide.jpg" />
+          <mj-carousel-image src="https://www.mailjet.com/wp-content/uploads/2016/09/3@1x.png" />
+          <mj-carousel-image src="https://www.mailjet.com/wp-content/uploads/2016/09/1@1x.png" />
+        </mj-carousel>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
