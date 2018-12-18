@@ -1,3 +1,3 @@
-# Quick Starter
+# Email Starter
 
-`yarn start` to build files out
+Run `npm start` to start an email development sever
